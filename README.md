@@ -20,9 +20,9 @@
 
 <p align="center">
   
-<a href="https://twitter.com/danielnunesdc" target="blank"><img align="right" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/danielnunesdc" alt="danielnunesdc" width="90" height="25" /></a>
+<a href="https://twitter.com/danielnunesdc" target="blank"><img align="right" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/danielnunesdc" alt="danielnunesdc" height="25" /></a>
   
-<a href="https://linkedin.com/in/danielnunesdc" target="blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielnunesdc" alt="danielnunesdc" width="90" height="25" /></a>
+<a href="https://linkedin.com/in/danielnunesdc" target="blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielnunesdc" alt="danielnunesdc" height="25" /></a>
 
-<a href="mailto:danielnunesdev@gmail.com" target="blank"><img align="right" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielnunesdev@gmail.com" alt="danielnunesdev@gmail.com" width="90" height="25" /></a>
+<a href="mailto:danielnunesdev@gmail.com" target="blank"><img align="right" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielnunesdev@gmail.com" alt="danielnunesdev@gmail.com"  height="25" />danielnunesdev@gmail.com</a>
 </p>
