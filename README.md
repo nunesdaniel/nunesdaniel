@@ -19,6 +19,7 @@
 </center>
 
 <p align="center">
+<img align="right" src="https://camo.githubusercontent.com/3fd59b091b5591dd84ba5976c2b5b2fe5d6da084/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d73746566616e6f7361666672616e" alt="nunesdaniel" data-canonical-src="https://komarev.com/ghpvc/?username=nunesdaniel" width="90" height="25">
   
 <a href="https://twitter.com/danielnunesdc" target="blank"><img align="right" src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/danielnunesdc" alt="danielnunesdc" width="90" height="25" /></a>
   
