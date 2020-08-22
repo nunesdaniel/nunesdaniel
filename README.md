@@ -24,5 +24,5 @@
   
 <a href="https://linkedin.com/in/danielnunesdc" target="blank"><img align="right" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielnunesdc" alt="danielnunesdc" width="90" height="25" /></a>
 
-<a href="mailto:danielnunesgnu@gmail.com" target="blank"><img align="right" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielnunesgnu@gmail.com" alt="danielnunesgnu@gmail.com" width="90" height="25" /></a>
+<a href="mailto:danielnunesdev@gmail.com" target="blank"><img align="right" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielnunesdev@gmail.com" alt="danielnunesdev@gmail.com" width="90" height="25" /></a>
 </p>
