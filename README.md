@@ -23,7 +23,7 @@
 
 <a href="mailto:danielnunesdev@gmail.com" target="blank" title="danielnunesdev@gmail.com"><img align="right" src="https://img.shields.io/badge/-danielnunesdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielnunesdev@gmail.com" alt="danielnunesdev@gmail.com"  height="25" /></a>
 
-  <a href="https://app.rocketseat.com.br/me/danielnunesdc" target="_blank" title="Daniel Nunes profile at Rocketseat"><img align="right" src="https://img.shields.io/static/v1?label=Meu_Perfil&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"  height="25" /></a>
+ <!-- <a href="https://app.rocketseat.com.br/me/danielnunesdc" target="_blank" title="Daniel Nunes profile at Rocketseat"><img align="right" src="https://img.shields.io/static/v1?label=Meu_Perfil&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"  height="25" /></a>-->
 
 </p>
 
