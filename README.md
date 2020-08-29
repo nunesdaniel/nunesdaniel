@@ -1,6 +1,11 @@
 <h3 align="center"><img width="100px" height="110" src="http://nunes.surge.sh/img/perfil/daniel-sf.png"></h3>
 
-<h3 align="center">A Software Developer from Brazil</h3>
+<h3 align="center">
+  <a href="https://www.youracclaim.com/badges/2ef9701a-4463-4eed-bc9e-30225445c2fe?source=linked_in_profile" title="Badge da certificação SFPC da CertiProf"><img width="70px" height="70px" src="https://images.youracclaim.com/size/340x340/images/c2ddc533-ba6c-464d-a69d-f9f28177176b/CertiProf-Badge-SFPC.png" alt="Badge da certificação SFPC da CertiProf"></a>
+  <a href="https://www.youracclaim.com/badges/0e651525-4663-4dd2-9aac-696ff0ae6a27?source=linked_in_profile" title="Badge da certificação DEPC da CertiProf"><img width="70px" height="70px" src="https://images.youracclaim.com/size/340x340/images/165466d3-37d8-4dcb-821d-cb072cfd2a69/CertiProf-Badge-DEPC.png" alt="Badge da certificação DEPC da CertiProf"></a>
+  <a href="https://www.youracclaim.com/badges/55d67538-26da-4b3b-88dd-0ca70e2497c4?source=linked_in_profile" title="Badge de LLL da CertiProf"><img width="70px" height="70px" src="https://images.youracclaim.com/size/340x340/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" alt="Badge d LLL da CertiProf"></a><br />
+  A Software Developer from Brazil
+</h3><br /><br /><br /><br />
 
 
 
@@ -10,8 +15,8 @@
 <center>
 <table>
   <tr>
-      <td><img width="371px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunesdaniel&hide=html&layout=compact&theme=dracula" /></td>
-      <td><img width="401px" align="left" src="https://github-readme-stats.vercel.app/api?username=nunesdaniel&theme=dracula&show_icons=true" /></td>
+      <td><img width="371px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunesdaniel&hide=html&layout=compact&theme=light" /></td>
+      <td><img width="401px" align="left" src="https://github-readme-stats.vercel.app/api?username=nunesdaniel&theme=lightcula&show_icons=true" /></td>
   </tr>    
 </table>
 </center>
