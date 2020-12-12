@@ -5,7 +5,7 @@
   <a href="https://www.youracclaim.com/badges/0e651525-4663-4dd2-9aac-696ff0ae6a27?source=linked_in_profile" title="Badge da certificação DEPC da CertiProf"><img width="70px" height="70px" src="https://images.youracclaim.com/size/340x340/images/165466d3-37d8-4dcb-821d-cb072cfd2a69/CertiProf-Badge-DEPC.png" alt="Badge da certificação DEPC da CertiProf"></a>
   <a href="https://www.youracclaim.com/badges/55d67538-26da-4b3b-88dd-0ca70e2497c4?source=linked_in_profile" title="Badge de LLL da CertiProf"><img width="70px" height="70px" src="https://images.youracclaim.com/size/340x340/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png" alt="Badge d LLL da CertiProf"></a>
   <a href="https://www.linkedin.com/in/danielnunesdc/" title="Badge de KIKF da CertiProf"><img width="70px" height="70px" src="https://cdn.shopify.com/s/files/1/0299/9215/7283/products/KanbanFoundationKIKFBadge_600x.png?v=1599704680" alt="Badge d KIKF da CertiProf"></a><br />
-  A Software Developer from Brazil
+  A Aspiring Developer from Brazil
 </h3><br /><br />
 <h3 align="center">
 <img src="https://komarev.com/ghpvc/?username=nunesdaniel&&style=flat-square" align="center" />
