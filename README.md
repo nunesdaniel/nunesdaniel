@@ -10,8 +10,8 @@
 </h3>
 <h3 align="center">
  <!-- <a href="https://www.linkedin.com/in/danielnunesdc/" title="Badge de LSSWB do Management & Strategy Institute"><img width="95px" height="70px" src="https://s3.eu-west-1.amazonaws.com/learnupon/courseimages/489329/large/LSSWB.png" alt="Badge de LSSWB do Management & Strategy Institute"></a>
-<a href="https://www.linkedin.com/in/danielnunesdc/" title="Badge de PMEC do Management & Strategy Institute"><img width="95px" height="70px" src="https://s3.eu-west-1.amazonaws.com/learnupon/courseimages/489328/large/PMEC.png" alt="Badge de PMEC do Management & Strategy Institute"></a><br /> -->
-  A Aspiring Developer from Brazil
+<a href="https://www.linkedin.com/in/danielnunesdc/" title="Badge de PMEC do Management & Strategy Institute"><img width="95px" height="70px" src="https://s3.eu-west-1.amazonaws.com/learnupon/courseimages/489328/large/PMEC.png" alt="Badge de PMEC do Management & Strategy Institute"></a><br /> 
+  A Aspiring Developer from Brazil -->
 </h3><br /><br />
 <h3 align="center">
 <img src="https://komarev.com/ghpvc/?username=nunesdaniel&&style=flat-square" align="center" />
