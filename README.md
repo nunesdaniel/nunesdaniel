@@ -9,8 +9,8 @@
   <a href="https://www.linkedin.com/in/danielnunesdc/" title="Badge de RWVCPC da CertiProf"><img width="70px" height="70px" src="https://d24s38jd6z1bka.cloudfront.net/upload/images/banner/56901-Certificado-Remote-Work-and-Virtual-Collaboration.png" alt="Badge de RWVCPC da CertiProf"></a>
 </h3>
 <h3 align="center">
- <a href="https://www.linkedin.com/in/danielnunesdc/" title="Badge de LSSWB do Management & Strategy Institute"><img width="95px" height="70px" src="https://s3.eu-west-1.amazonaws.com/learnupon/courseimages/489329/large/LSSWB.png" alt="Badge de LSSWB do Management & Strategy Institute"></a>
-<a href="https://www.linkedin.com/in/danielnunesdc/" title="Badge de PMEC do Management & Strategy Institute"><img width="95px" height="70px" src="https://s3.eu-west-1.amazonaws.com/learnupon/courseimages/489328/large/PMEC.png" alt="Badge de PMEC do Management & Strategy Institute"></a><br />
+ <!-- <a href="https://www.linkedin.com/in/danielnunesdc/" title="Badge de LSSWB do Management & Strategy Institute"><img width="95px" height="70px" src="https://s3.eu-west-1.amazonaws.com/learnupon/courseimages/489329/large/LSSWB.png" alt="Badge de LSSWB do Management & Strategy Institute"></a>
+<a href="https://www.linkedin.com/in/danielnunesdc/" title="Badge de PMEC do Management & Strategy Institute"><img width="95px" height="70px" src="https://s3.eu-west-1.amazonaws.com/learnupon/courseimages/489328/large/PMEC.png" alt="Badge de PMEC do Management & Strategy Institute"></a><br /> -->
   A Aspiring Developer from Brazil
 </h3><br /><br />
 <h3 align="center">
@@ -26,8 +26,8 @@
 <center>
 <table>
   <tr>
-      <td><img width="371px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunesdaniel&hide=html&layout=compact&theme=dark" /></td>
-      <td><img width="401px" align="left" src="https://github-readme-stats.vercel.app/api?username=nunesdaniel&theme=dark&show_icons=true" /></td>
+      <td><img width="371px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunesdaniel&hide=html&layout=compact&theme=light" /></td>
+      <td><img width="401px" align="left" src="https://github-readme-stats.vercel.app/api?username=nunesdaniel&theme=light&show_icons=true" /></td>
   </tr>    
 </table>
 </center>
