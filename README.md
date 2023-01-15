@@ -1,4 +1,4 @@
-<h3 align="center"><img width="100px" height="110" src="http://nunes.surge.sh/img/perfil/daniel-sf.png"></h3>
+
 
 <h3 align="center">
  <!-- <a href="https://www.linkedin.com/in/danielnunesdc/" title="Badge de LSSWB do Management & Strategy Institute"><img width="95px" height="70px" src="https://s3.eu-west-1.amazonaws.com/learnupon/courseimages/489329/large/LSSWB.png" alt="Badge de LSSWB do Management & Strategy Institute"></a>
