@@ -1,7 +1,7 @@
 <h1 align="center"> Daniel Nunes </h1>
     
 <div align="center" height="20" >
-<b>Data Analyst | Data Consultant | Open source enthusiast </b>
+<b>Data Analyst | Data Scientist | Open source enthusiast </b>
 <br />
 <br />
 </div>
@@ -21,10 +21,17 @@
 <br />
 <br />
 Hey there! I am Daniel, aka <a href="https://linkedin.com/in/danielnunesdc" target="blank">danielnunesdc</a> :wave: 😊
+<br />
+<br />
+I am a dedicated Data Analyst who always seeks to improve my knowledge and contribute to creating or evolving the products and processes of the companies I work for. I have worked with multiple clients in various fields, including business, sales, medicine, and education.
 
+I have experience in Data Analysis, Data Science, Systems Development, and Business process automation. My main technological skills include <b>Python</b>, <b>R</b>, <b>Shell Script</b>, and <b>SQL</b>. I am also comfortable using <b>Javascript</b>, <b>Batch Script</b>, <b>C</b>, and <b>GO</b>.
+
+Daily, I work with multiple databases such as <b>MySQL</b>, <b>Oracle</b>, <b>SQL Server</b>, <b>PostgreSQL</b>, and <b>MongoDB</b>. Additionally, I use data visualization tools like <b>Power BI</b>, <b>Looker Studio</b>, and <b>Tableau</b>.
+
+Currently, I am employed as a Data Analyst at Assesso. Additionally, I work as a Citizen Scientist at IASC(International Astronomical Search Collaboration).
 <br />
 <br />
-<b>working in progress...</b>
 </details>
 </div>
 <br />
