@@ -16,11 +16,8 @@
 </center>
 
 <p align="right">
-<a href="https://twitter.com/danielnunesdc" target="blank" title="Daniel Nunes profile at Twitter"><img align="right" src="https://img.shields.io/badge/-@danielnunesdc-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/danielnunesdc" alt="danielnunesdc" height="25" /></a>
   
-<a href="https://linkedin.com/in/danielnunesdc" target="blank" title="Daniel Nunes profile at LinkedIn"><img align="right" src="https://img.shields.io/badge/-@danielnunesdc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielnunesdc" alt="danielnunesdc" height="25" /></a>
-
-<a href="mailto:danielnunesdev@gmail.com" target="blank" title="danielnunesdev@gmail.com"><img align="right" src="https://img.shields.io/badge/-danielnunesdev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielnunesdev@gmail.com" alt="danielnunesdev@gmail.com"  height="25" /></a>
+<a href="https://linkedin.com/in/danielnunesdc" target="blank" title="Daniel Nunes profile at LinkedIn"><img align="center" src="https://img.shields.io/badge/-@danielnunesdc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielnunesdc" alt="danielnunesdc" height="25" /></a>
 
  <!-- <a href="https://app.rocketseat.com.br/me/danielnunesdc" target="_blank" title="Daniel Nunes profile at Rocketseat"><img align="right" src="https://img.shields.io/static/v1?label=Meu_Perfil&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"  height="25" /></a>-->
 
